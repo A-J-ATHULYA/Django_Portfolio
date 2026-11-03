@@ -1,0 +1,16 @@
+# api call for About
+###
+GET http://127.0.0.1:8000/api/About/
+Accept: application/json
+
+
+# api call for Education
+###
+GET http://127.0.0.1:8000/api/Education/
+Accept: application/json
+
+
+# api call for Project
+###
+GET http://127.0.0.1:8000/api/Project/
+Accept: application/json
